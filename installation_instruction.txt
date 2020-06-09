@@ -1,0 +1,21 @@
+# linux:
+      use linux_64x application, no installation is required.
+      ready to run app , refer README.md for instructions.
+      
+# Windows:
+    use Win_Setup_elite.exe,download and run
+    password for installation: simclair@elitecoders
+    follow the setup instructions, and it will be installed.
+    refer README.md for instructions.
+   
+# Mac :
+    sorry, no direct installation is available
+    Alternate method:
+      %% installing from python source :
+                  after installing python, make sure you have all the dependencies (refer dependencies.txt)
+                  install pyinstaller --> pip install pyinstaller
+                  then download the source folder , 
+                  and execute the following command in terminal inside the source folder
+                  >> pyinstaller --onefile --windowed -icon=icon.ico Eliteloader.py
+                  This will create a executable in dist folder.
+                  refer README.md for instructions.
