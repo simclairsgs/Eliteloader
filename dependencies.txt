@@ -1,0 +1,15 @@
+
+Dependencies to run the python script :
+    -- Python 3.6+
+    -- Pyqt5 module
+    -- requests module
+    -- wget module
+    -- re module
+    -- pytube module
+ 
+INSTALLING DEPENDENCIES:
+    1. pip install pyqt5-tools
+    2. pip install requests
+    3. pip install wget
+    4. pip install pytube3
+    5. pip install re
