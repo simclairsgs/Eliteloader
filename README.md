@@ -1,10 +1,15 @@
 # Eliteloader
-Youtube , Facebook, Instagram ,any mp4 source Video Downloader in Python with PYQT5
-
+Youtube , Facebook, Instagram ,any mp4 source Video Downloader in Python with PYQT5\
+Note:- pytube is still in development (Recently  it has some issues),it may have some problems in downloading youtube videos.
 
 ## How to use :
   * copy the url link from youtube, facebook ,instagram or any video source.
   * paste and click 'go' or press enter on keyboard
+  
+  
+  ![](screenshot.gif)
+  
+  
 ## For Youtube :
       1.select audio or video (if audio is selected, skip to step 3)
       2.Select reqd. video quality and format (for HD quality, check the non-proressive checkbox, refer note for youtube)
